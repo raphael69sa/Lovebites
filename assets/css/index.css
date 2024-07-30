@@ -12,7 +12,7 @@
 
 /* -------- Footer */
 
-#social-networks {
+#social-media {
     text-align: center;
     padding: 20px 0;
     display: flex;
@@ -20,7 +20,7 @@
     list-style-type: none;
 }
 
-#social-networks i {
+#social-media i {
     font-size: 160%;
     padding: 5%;
     color: #3a3a3a;
